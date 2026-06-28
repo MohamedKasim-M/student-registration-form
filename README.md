@@ -4,17 +4,6 @@ A simple and responsive Student Registration Form built using HTML. This project
 
 ---
 
-# ✨ Features
-
-- Student registration form
-- Name, Email, and Password fields
-- Gender selection using radio buttons
-- Skills selection using checkboxes
-- Date of Birth input field
-- Student details table
-- Clean and beginner-friendly HTML structure
-
----
 
 # 📋 Form Fields
 
