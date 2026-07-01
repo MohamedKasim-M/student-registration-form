@@ -1,9 +1,15 @@
 # 🎓 Student Registration Form
+A simple and visually appealing **Student Registration Form** built using **HTML & CSS**. This project allows users to enter student details such as name, email, password, gender, skills, and date of birth. The student details are displayed in a sample table using dummy data.
 
-A simple and responsive Student Registration Form built using HTML. This project allows users to enter student details such as name, email, password, gender, skills, and date of birth. The submitted student details are displayed in a table using dummy data.
 
 ---
 
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+
+---
 
 # 📋 Form Fields
 
